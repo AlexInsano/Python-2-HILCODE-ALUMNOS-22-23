@@ -25,3 +25,4 @@ def crear(MAX_HORIZONTAL, MAX_VERTICAL, texto):
 
     print(f"{HORIZONTAL}")
 
+
